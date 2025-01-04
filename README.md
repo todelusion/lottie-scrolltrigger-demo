@@ -40,8 +40,8 @@ This project demonstrates how to control **Lottie animations** using **GSAP's Sc
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/todelusion/lottie-scrolltrigger-demo.git
+   cd lottie-scrolltrigger-demo
    ```
 2. Install dependencies:
    ```bash
