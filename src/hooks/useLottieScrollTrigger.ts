@@ -72,8 +72,8 @@ function useLottieScrollTrigger(vars: Vars, pause?: boolean) {
 
         createTween();
         // In case there are any other ScrollTriggers on the page and the loading of this Lottie asset caused layout changes
-        ScrollTrigger.sort();
-        ScrollTrigger.refresh();
+        // ScrollTrigger.sort();
+        // ScrollTrigger.refresh();
       }, vars.container);
     });
 
